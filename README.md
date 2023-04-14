@@ -1,4 +1,4 @@
-**Ilya Alekseevich Shmyrev** (nickname ilyash; born December 11, 2006) is a administrator and client and server developer MMO RPG for kids «Club Penguin CPPS.app». Member of Discord Moderator Mentorship Community.
+**Ilya Alekseevich Shmyrev** (nickname ilyash; born December 11, 2006) is a administrator and client and server developer MMO RPG for kids «Club Penguin CPPS.app». Alumnus of the Discord Moderators Program.
 
 
 - Know ActionScript 2.0, Python 3
