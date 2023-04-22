@@ -3,3 +3,8 @@
 
 - Know ActionScript 2.0, Python 3
 - Studying Unreal Engine and C++
+
+## Social networking service
+
+- Discord: ilyash#6884
+- Telegram: https://t.me/ilyash0
