@@ -2,7 +2,7 @@
 
 
 - Know ActionScript 2.0, Python 3
-- Studying Unreal Engine and C++
+- ~~Studying Unreal Engine and C++~~
 
 ## Social networking service
 
