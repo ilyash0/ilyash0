@@ -6,5 +6,5 @@
 
 ## Social networks
 
-- Discord: ilyash#6884
+- Discord: nynxx#1583
 - Telegram: https://t.me/ilyash0
