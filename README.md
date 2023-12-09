@@ -4,7 +4,7 @@
 - Know ActionScript 2.0, Python 3
 - ~~Studying Unreal Engine and C++~~
 
-## Social networks
+## Social media
 
 - Discord: nynxx#1583
 - Telegram: https://t.me/ilyash0
