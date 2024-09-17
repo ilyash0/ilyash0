@@ -1,7 +1,7 @@
 **Ilya Alekseevich Shmyryov** (nickname ilyash; born December 11, 2006) is a backend-developrer, student, alumnus of the Discord Moderators Program.
 
-- Know ActionScript 2.0, Python 3
-- ~~Studying Unreal Engine and C++~~
+- Know Flash + ActionScript 2.0, Python 3
+- Studying Django
 
 # Work experience
 ### Lead Developer
