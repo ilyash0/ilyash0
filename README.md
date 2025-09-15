@@ -6,7 +6,7 @@
 # Work experience
 ### Lead Developer
 **MMO RPG "CPPS.APP"**  
-*Dates: April 2021 - January 2024*
+*Dates: April 2021 - Present*
 - Led a team of developers in designing and implementing new features for the CPPS.APP.
 - Developed and maintained backend systems using Python.
 - Implemented game mechanics and interactions using ActionScript 2.0 in Flash.
