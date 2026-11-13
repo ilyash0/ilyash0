@@ -15,3 +15,4 @@
 # Social media
 - Discord: @nynxx
 - Telegram: https://t.me/ilyash0
+- LinkedIn: https://www.linkedin.com/in/ilyash0/
